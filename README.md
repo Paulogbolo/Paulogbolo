@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Paulogbolo
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Paulogbolo/Paulogbolo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+Software engineering 
+pauldaniel2011@gmail.com
++2347065978571 
